@@ -1,5 +1,4 @@
-name = "Adrian"
+name = "what is your name"
+age = "what is your age"
 
-number = "23"
-
-print("Hello , My name is " + name + " and I am " + number + " years old")
+print("Hello ,  " + name +  " . " + age)
