@@ -1,5 +1,5 @@
-name = input("What is your name? ")
+name = input("Enter your name? ")
 
-age = input("what is your age ")
+age = input("Enter your age ")
 
 print("Hello ,  " + name +  " . " + age)
